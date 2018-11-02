@@ -1,5 +1,7 @@
 # AppengineExample
 
+Based on <https://cloud.google.com/community/tutorials/elixir-phoenix-on-google-app-engine>
+
 To start your Phoenix server:
 
 * Install dependencies with `mix deps.get`
